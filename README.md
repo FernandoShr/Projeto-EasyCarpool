@@ -1,8 +1,8 @@
+# Aplicativo EasyCarpool
 <p align="center">
-<img src="https://github.com/FernandoShr/Projeto-EasyCarpool/blob/main/logo.webp" alt="drawing" width="25%"/>
+<img src="https://github.com/FernandoShr/Projeto-EasyCarpool/blob/main/logo.webp" alt="drawing" width="20%"/>
 </p>
 
-# Aplicativo EasyCarpool
 Lorem Ipsum
 
 # Autores
