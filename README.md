@@ -7,6 +7,6 @@ Um aplicativo de caronas, com o objetivo de facilitar a locomoção diária para
 
 # Autores
 - Andrias Matheus | 22.221.030-4
-- Gabriel Scopel | 22.221.
+- Gabriel Scopel | 22.221.026-2
 - Fernando Shiraishi | 22.221.014-8
 - Rafael Machado | 22.221.052-8
